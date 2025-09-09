@@ -12,7 +12,7 @@ This repository showcases my final project, which I completed for EC 425: Machin
 - Provided lender-oriented insights, showing tradeoffs between recall and precision depending on whether the objective is risk minimization or profit maximization.
 
 ## 💻 Code
-- [final_project.ipynb](): Code where I processed the data and built and reviewed the models
+- [final_project.ipynb](https://github.com/kmanu15/EC-425T-Machine-Learning/blob/main/final_project.ipynb): Code where I processed the data and built and reviewed the models
 
 ## 📊 Data
 For this project, I used a [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data) from Kaggle
