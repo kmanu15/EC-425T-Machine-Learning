@@ -2,7 +2,7 @@
 This repository showcases my final project, which I completed for EC 425: Machine Learning. I took this class in Winter 2025 at UCLA.
 
 ## 📄 Project
-- [Final Project]() - Completed project presentation 
+- [Final Project](https://github.com/kmanu15/EC-425T-Machine-Learning/blob/main/Final%20Project.pdf) - Completed project presentation 
 
 ## 💰 Predicting Credit Default
 - Developed machine learning models to predict credit default risk using the Kaggle Credit Risk dataset.
