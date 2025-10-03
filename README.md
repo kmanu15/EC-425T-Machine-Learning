@@ -8,7 +8,7 @@ This repository showcases my final project, which I completed for EC 425: Machin
 -	Developed various models to predict credit default risk using a Kaggle Credit Risk dataset
 -	Cleaned data by handling missing values and outliers, and applying one-hot encoding to categorical variables
 -	Fit and compared logistic regression, basic decision tree, and cost-complexity pruned decision tree models
--	Evaluated model performance, finding logistic regression achieved 86.7% accuracy, the basic decision tree improved recall for defaults (76%), and the pruned decision tree reached the highest overall accuracy (92.7%)
+-	Evaluated model performance, finding logistic regression achieved 86.7% accuracy, the basic decision tree improved recall for defaults (76%), and the pruned decision tree had the highest overall accuracy at 92.7%
 -	Presented insights on recall/precision tradeoffs depending on risk minimization or profit maximization goals
 
 ## 💻 Code
